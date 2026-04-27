@@ -1,7 +1,12 @@
+
 backend:
   name: github
   repo: Anthonyumoru/Anthony-news-
   branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
+site_url: https://anthonyumoru.github.io/Anthony-news-
+display_url: https://anthonyumoru.github.io/Anthony-news-
 media_folder: assets/images
 public_folder: /Anthony-news-/assets/images
 collections:
